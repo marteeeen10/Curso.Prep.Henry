@@ -1,0 +1,18 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Variables: Son valores que pueden (o no) ir cambiando a medida que se vaya ejecutando el codigo.
+
+Strings: "Texto". Valores numericos tambien pueden ser "texto"
+
+Funciones: Las funciones pueden tener dentro "parte" de un codigo. Cuando se ejecuta la funcion se ejecuta el codigo dentro. Ese codigo puede tener argumentos que son los
+valores con los cuales se van a ejecutar las funciones. El "return" es lo que devuelve la funcion y se finaliza la misma. No se ejecuta el codigo luego del return.
+
+Declaraciones IF: Son funciones logicas.. si se cumple esto, sucede esto.. si NO se cumple esto, sucede lo otro.. y asi sucesivamente.
+
+Booleanos. Valore true o false. Se cumple tal funcion,TRUE..pepe tiene menos de 20 años, FALSE.
